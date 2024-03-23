@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E08A15FD-7D8F-4564-AA3F-A4E927DD64CF}|api_calculadora\\api_calculadora.csproj|c:\\users\\yurig\\onedrive\\documents\\github\\api_calculadora_asp-net\\api_calculadora\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E08A15FD-7D8F-4564-AA3F-A4E927DD64CF}|api_calculadora\\api_calculadora.csproj|solutionrelative:api_calculadora\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E08A15FD-7D8F-4564-AA3F-A4E927DD64CF}|api_calculadora\\api_calculadora.csproj|c:\\users\\yurig\\onedrive\\documents\\github\\api_calculadora_asp-net\\api_calculadora\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E08A15FD-7D8F-4564-AA3F-A4E927DD64CF}|api_calculadora\\api_calculadora.csproj|solutionrelative:api_calculadora\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E08A15FD-7D8F-4564-AA3F-A4E927DD64CF}|api_calculadora\\api_calculadora.csproj|c:\\users\\yurig\\onedrive\\documents\\github\\api_calculadora_asp-net\\api_calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E08A15FD-7D8F-4564-AA3F-A4E927DD64CF}|api_calculadora\\api_calculadora.csproj|solutionrelative:api_calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E08A15FD-7D8F-4564-AA3F-A4E927DD64CF}|api_calculadora\\api_calculadora.csproj|c:\\users\\yurig\\onedrive\\documents\\github\\api_calculadora_asp-net\\api_calculadora\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E08A15FD-7D8F-4564-AA3F-A4E927DD64CF}|api_calculadora\\api_calculadora.csproj|solutionrelative:api_calculadora\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\api_calculadora\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "api_calculadora\\Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\api_calculadora\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "api_calculadora\\Controllers\\CalculatorController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T15:52:10.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\api_calculadora\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "api_calculadora\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\api_calculadora\\WeatherForecast.cs",
-              "RelativeToolTip": "api_calculadora\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T15:52:00.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\api_calculadora\\Program.cs",
-              "RelativeDocumentMoniker": "api_calculadora\\Program.cs",
-              "ToolTip": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\api_calculadora\\Program.cs",
-              "RelativeToolTip": "api_calculadora\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T01:09:33.618Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\api_calculadora\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api_calculadora\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\yurig\\OneDrive\\Documents\\GitHub\\API_Calculadora_ASP-NET\\api_calculadora\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api_calculadora\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T16:17:53.145Z",
               "EditorCaption": ""
             }
           ]
